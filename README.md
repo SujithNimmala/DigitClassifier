@@ -1,11 +1,3 @@
-# Digit Classifier Android sample
-
-<img src="https://storage.googleapis.com/khanhlvg-public.appspot.com/digit-classifier/screenshot_android.png" />
-
-## Requirements
-
-*  Android Studio 3.2 (installed on a Linux, Mac or Windows machine)
-*  An Android device, or an Android Emulator
 
 ## Build and run
 
